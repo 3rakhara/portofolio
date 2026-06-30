@@ -1,0 +1,10 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines-logo.png",
+        "major": "Electronic Engineering",
+        "year": "2023 - present",
+        "description": "GPA 3.39 of 4; Specializing in Embedded Systems, IoT, and Electronics. Experienced in developing microcontroller-based projects using ESP32, STM32, Arduino, sensor integration, and PCB design."
+
+    }
+]

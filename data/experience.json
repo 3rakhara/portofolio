@@ -1,0 +1,17 @@
+[
+    {
+        "company": "Polines Robotic Evolution (Polirevo)",
+        "logo": "images/polirevo.jpg",
+        "position": "Head of Mechanical Division (KRAI)",
+        "year": "2024 - Present",
+        "description": "Leading the Mechanical Division of the KRAI robotics team by coordinating mechanical design, fabrication, assembly, and maintenance of the robot. Responsible for managing team members, planning project timelines, ensuring component reliability, and collaborating with the electronics and programming divisions to develop a high-performance robot for the Indonesian Robot Contest (KRAI)."
+    },
+
+    {
+    "company": "Sigma Inovation Community (SIC)",
+    "logo": "images/sic.png",
+    "position": "Research and Development (R&D)",
+    "year": "2024 - Present",
+    "description": "Researching and developing industrial automation solutions with a focus on Programmable Logic Controllers (PLC). Exploring different PLC platforms, designing and testing automation systems, conducting technical research, and mentoring junior members by delivering PLC training and practical learning sessions."
+    }
+]

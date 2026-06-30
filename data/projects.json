@@ -1,0 +1,10 @@
+[
+    {
+        "title": "PID Water level module using Arduino",
+        "year": "2025",
+        "partner": "RE-3D Polines",
+        "description": "A water level control module utilizing Arduino and the PID method serves as a learning tool for the Digital Control Systems course",
+        "image": "images/project1.png",
+        "link": "https://example.com/solar-water"
+    }
+]
